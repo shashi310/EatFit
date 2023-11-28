@@ -1,0 +1,23 @@
+.card_item:hover{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    cursor: pointer;
+}
+.card_item_image{
+    transition: all ease 0.8s;
+    border-radius: 5px;
+}
+.card_item:hover .card_item_image{
+    transform: scale(1.1);
+}
+.card_item_popular {
+    animation: opacity 2s infinite;
+}
+  
+@keyframes opacity {
+    0%, 100% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "dish": "Butter Chicken",
+            "popular": true,
+            "category": "Non-Vegetarian",
+           "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/HPS288/primary/1_1.jpg",
+            "price": 350
+        },
+        {
+            "id": 2,
+            "dish": "Paneer Tikka",
+            "category": "Vegetarian",
+            "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/HPS288/primary/1_1.jpg",
+            "price": 250
+        },
+        {
+            "id": 3,
+            "dish": "Masala Dosa",
+            "category": "Vegetarian",
+            "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/HPS288/primary/1_1.jpg",
+            "price": 180
+        },
+        {
+            "id": 4,
+            "dish": "Rogan Josh",
+            "category": "Non-Vegetarian",
+            "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/HPS288/primary/1_1.jpg",
+            "price": 400,
+            "popular": true
+        },
+        {
+            "id": 5,
+            "dish": "Chole Bhature",
+            "category": "Vegetarian",
+            "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/HPS288/primary/1_1.jpg",
+            "price": 200
+        },
+        {
+            "id": 6,
+            "dish": "Biryani",
+            "category": "Non-Vegetarian",
+            "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/HPS288/primary/1_1.jpg",
+            "popular": true,
+            "price": 300
+        },
+        {
+            "id": 7,
+            "dish": "Palak Paneer",
+            "category": "Vegetarian",
+            "popular": true,
+            "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/HPS288/primary/1_1.jpg",
+            "price": 280
+        },
+        {
+            "id": 8,
+            "dish": "Vada Pav",
+            "category": "Vegetarian",
+            "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/HPS288/primary/1_1.jpg",
+            "price": 150
+        },
+        {
+            "id": 9,
+            "dish": "Samosa",
+            "category": "Vegetarian",
+            "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/HPS288/primary/1_1.jpg",
+            "price": 120
+        },
+        {
+            "id": 10,
+            "dish": "Fish Curry",
+            "category": "Non-Vegetarian",
+            "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/HPS288/primary/1_1.jpg",
+            "price": 380
+        },
+        {
+            "id": 11,
+            "dish": "Gulab Jamun",
+            "category": "Vegetarian",
+            "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/HPS288/primary/1_1.jpg",
+            "price": 100
+        },
+        {
+            "id": 12,
+            "dish": "Mutton Korma",
+            "category": "Non-Vegetarian",
+            "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/HPS288/primary/1_1.jpg",
+            "price": 420
+        },
+        {
+            "id": 13,
+            "dish": "Pani Puri",
+            "category": "Vegetarian",
+            "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/HPS288/primary/1_1.jpg",
+            "price": 80
+        },
+        {
+            "id": 14,
+            "dish": "Aloo Paratha",
+            "popular": true,
+            "category": "Vegetarian",
+            "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/HPS288/primary/1_1.jpg",
+            "price": 160
+        },
+        {
+            "id": 15,
+            "dish": "Tandoori Chicken",
+            "category": "Non-Vegetarian",
+            "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/HPS288/primary/1_1.jpg",
+            "price": 320
+        },
+        {
+            "id": 16,
+            "dish": "Rasgulla",
+            "category": "Vegetarian",
+            "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/HPS288/primary/1_1.jpg",
+            "price": 90
+        },
+        {
+            "id": 17,
+            "dish": "Dal Makhani",
+            "category": "Vegetarian",
+            "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/HPS288/primary/1_1.jpg",
+            "price": 220
+        },
+        {
+            "id": 18,
+            "dish": "Pav Bhaji",
+            "popular": true,
+            "category": "Vegetarian",
+            "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/HPS288/primary/1_1.jpg",
+            "price": 200
+        },
+        {
+            "id": 19,
+            "dish": "Chicken Tikka Masala",
+            "category": "Non-Vegetarian",
+            "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/HPS288/primary/1_1.jpg",
+            "price": 370
+        },
+        {
+            "id": 20,
+            "dish": "Idli Sambhar",
+            "category": "Vegetarian",
+            "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/HPS288/primary/1_1.jpg",
+            "price": 190
+        }
+    ]
+    
+}

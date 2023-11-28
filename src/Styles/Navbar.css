@@ -1,0 +1,8 @@
+.navbar_mid>*,.navbar_last>*{
+    transition: all ease 0.5s;
+}
+.navbar_mid>*:hover,.navbar_last>*:hover{
+    scale: 1.1;
+    cursor: pointer;
+    color: rgb(235,12,119);
+}

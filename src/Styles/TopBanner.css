@@ -1,0 +1,10 @@
+.top_banner::-webkit-scrollbar{
+    display: none;
+}
+.second_banner::-webkit-scrollbar{
+    display: none;
+}
+.top_banner>*:hover{
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
